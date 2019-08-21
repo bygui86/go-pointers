@@ -1,0 +1,15 @@
+goos: darwin
+goarch: amd64
+pkg: github.com/bygui86/go-pointers
+BenchmarkMemoryStackMultiple 	    5000	    237627 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStackMultiple 	   10000	    225520 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStackMultiple 	   10000	    224018 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStackMultiple 	   10000	    223065 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStackMultiple 	   10000	    224079 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStackMultiple 	    5000	    227817 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStackMultiple 	    5000	    237268 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStackMultiple 	   10000	    246123 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStackMultiple 	    5000	    233128 ns/op	       0 B/op	       0 allocs/op
+BenchmarkMemoryStackMultiple 	   10000	    223141 ns/op	       0 B/op	       0 allocs/op
+PASS
+ok  	github.com/bygui86/go-pointers	18.607s
